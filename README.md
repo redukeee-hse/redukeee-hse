@@ -1,3 +1,3 @@
-## Hi there 👋
+## Welcome to my Git Profile
 
-# I am looking for soulmates to work together👻👻👻
+I am just looking for soulmates to work together👻👻👻
