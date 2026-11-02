@@ -53,6 +53,4 @@
 
 ## GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=redukeee-hse&show_icons=true&hide_border=true&hide=stars&locale=ru)](https://github.com/redukeee-hse?tab=repositories)
-
 [Все репозитории](https://github.com/redukeee-hse?tab=repositories) · [Активность](https://github.com/redukeee-hse?tab=overview)
