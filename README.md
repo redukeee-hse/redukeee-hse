@@ -2,6 +2,8 @@
 
 Разрабатываю backend на Go: HTTP API, работу с PostgreSQL и Redis, интеграции с внешними сервисами. В проектах использую Chi, pgx, Squirrel и OpenAPI; уделяю внимание транзакциям, конкурентным операциям и обработке ошибок.
 
+**Открыт к предложениям:** стажировка или junior Go backend · [Telegram @redukeee](https://t.me/redukeee)
+
 ## Основной стек
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -51,6 +53,6 @@
 
 Поддерживаю [конфигурацию NixOS + Hyprland](https://github.com/redukeee-hse/nixos-config) с Home Manager и скриптами установки и обновления. Ранее работал с Java и Python; сейчас основной фокус — Go backend.
 
-## GitHub
+## Контакты
 
-[Все репозитории](https://github.com/redukeee-hse?tab=repositories) · [Активность](https://github.com/redukeee-hse?tab=overview)
+Telegram: [@redukeee](https://t.me/redukeee) · GitHub: [все репозитории](https://github.com/redukeee-hse?tab=repositories)
