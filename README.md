@@ -24,7 +24,7 @@
 
 [Архитектура и запуск](https://github.com/ArtemST2006/GorkyCode#readme) · [Документация backend](https://github.com/ArtemST2006/GorkyCode/blob/main/backend/README.md)
 
-### [Trip Service](https://github.com/redukeee-hse/trip-service/tree/homework/01) — HTTP API сервиса поездок
+### [Trip Service](https://github.com/redukeee-hse/trip-service) — HTTP API сервиса поездок
 
 `Go` `Chi` `oapi-codegen` `PostgreSQL` `pgxpool` `goose` `Docker`
 
@@ -35,7 +35,7 @@
 - Блокировка строки при завершении поездки; уникальный индекс не даёт водителю иметь две активные поездки.
 - Таймауты, graceful shutdown, health/readiness endpoints, многостадийная Docker-сборка.
 
-[Код и запуск](https://github.com/redukeee-hse/trip-service/tree/homework/01) · [Решения по транзакциям и конкурентности](https://github.com/redukeee-hse/trip-service/blob/homework/01/README.md#решения)
+[Код и запуск](https://github.com/redukeee-hse/trip-service) · [Решения по транзакциям и конкурентности](https://github.com/redukeee-hse/trip-service/blob/main/README.md#решения)
 
 ## Стек
 
